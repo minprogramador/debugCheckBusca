@@ -1,0 +1,3300 @@
+{  
+   "code":200,
+   "data":{  
+      "erros":[  
+
+      ],
+      "consultas":{  
+         "10":{  
+            "template":"credito_3",
+            "key":{  
+               "md5":"85f5762d1923d38f86eb30cb145a883d",
+               "title":"92754738000162"
+            },
+            "data":{  
+               "dadosInformados":{  
+                  "cnpj":"92.754.738\/0001-62"
+               },
+               "resumoOcorrencias":{  
+                  "confirmacao_dados_telefonicos":{  
+                     "qtde":"-",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  },
+                  "protesto":{  
+                     "qtde":"25",
+                     "ultima_ocorrencia":"08\/2019",
+                     "valor":"101750.94"
+                  },
+                  "cheque_sem_fundo_varejo":{  
+                     "qtde":"-",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  },
+                  "registro_de_spc":{  
+                     "qtde":"34",
+                     "ultima_ocorrencia":"07\/2019",
+                     "valor":"101823.05"
+                  },
+                  "informacoes_do_poder_judiciario":{  
+                     "qtde":"-",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  },
+                  "cheques_sem_fundo_ccf":{  
+                     "qtde":"-",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  },
+                  "registro_de_cheque_lojista":{  
+                     "qtde":"-",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  },
+                  "cheque_contra_ordem_outras_ocorrencias":{  
+                     "qtde":"-",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  },
+                  "consulta_realizada":{  
+                     "qtde":"142",
+                     "ultima_ocorrencia":"08\/2019",
+                     "valor":""
+                  },
+                  "alerta_de_documentos":{  
+                     "qtde":"-",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  },
+                  "credito_concedido":{  
+                     "qtde":"-",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  },
+                  "controle_societario":{  
+                     "qtde":"4",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  },
+                  "pendencias_financeiras_serasa":{  
+                     "qtde":"87",
+                     "ultima_ocorrencia":"06\/2019",
+                     "valor":"297279.92"
+                  },
+                  "participacoes_em_empresas":{  
+                     "qtde":"4",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  }
+               },
+               "identificacao":{  
+                  "cnpj":"92.754.738\/0001-62",
+                  "situacao_do_cnpj":"ATIVA   atualizado em 02\/08\/2019 \u00e0s 00:00",
+                  "razao_social":"LOJAS RENNER S\/A",
+                  "data_da_fundacao":{  
+                     "date":"1966-08-10 00:00:00.000000",
+                     "timezone_type":3,
+                     "timezone":"America\/Sao_Paulo"
+                  },
+                  "atividade_economica_principal":"4713004 - LOJAS DE DEPARTAMENTOS OU MAGAZINES, EXCETO LOJAS FRANCAS (DUTY FREE)"
+               },
+               "endereco":{  
+                  "endereco":"AV JOAQUIM PORTO VILLANOVA, 401    \u00a0",
+                  "bairro":"JARDIM DO SALSO",
+                  "cidade":"PORTO ALEGRE",
+                  "uf":"RS",
+                  "cep":"91410-400"
+               },
+               "telefones":[  
+                  {  
+                     "telefone":"24 3348-3355",
+                     "tempo_instalacao":"-",
+                     "cidade":"-",
+                     "uf":"-"
+                  },
+                  {  
+                     "telefone":"24 3348-4333",
+                     "tempo_instalacao":"-",
+                     "cidade":"-",
+                     "uf":"-"
+                  }
+               ],
+               "enderecosInformadosAnteriormente":[  
+                  {  
+                     "logradouro":"AV JOAQUIM PORTO VILLANOVA, 401",
+                     "bairro":"JARDIM CARVALHO",
+                     "cidade":"PORTO ALEGRE",
+                     "cep":"91410-400",
+                     "uf":"RS"
+                  }
+               ],
+               "participacoesEmpresas":[  
+                  {  
+                     "cnpj":"90.055.609\/0001-50",
+                     "razao_social":"RENNER ADMINISTRADORA DE CARTOES DE CRED",
+                     "ultima_atualizacao":"-",
+                     "situacao_do_cnpj":"-",
+                     "data_entrada":{  
+                        "date":"1984-08-13 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "tipo_relacionamento":"ADMINISTRADOR",
+                     "participacao":"100.00",
+                     "cargo_de_direcao":"SOCIO",
+                     "cargo_de_administracao":"-",
+                     "data_saida":null
+                  },
+                  {  
+                     "cnpj":"02.841.848\/0001-79",
+                     "razao_social":"DROMEGON PARTICIPACOES LTDA",
+                     "ultima_atualizacao":"-",
+                     "situacao_do_cnpj":"-",
+                     "data_entrada":{  
+                        "date":"2005-09-09 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "tipo_relacionamento":"ADMINISTRADOR",
+                     "participacao":"99.90",
+                     "cargo_de_direcao":"SOCIO",
+                     "cargo_de_administracao":"-",
+                     "data_saida":null
+                  },
+                  {  
+                     "cnpj":"03.002.339\/0001-15",
+                     "razao_social":"MAXMIX COMERCIAL LTDA",
+                     "ultima_atualizacao":"-",
+                     "situacao_do_cnpj":"-",
+                     "data_entrada":{  
+                        "date":"2013-02-13 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "tipo_relacionamento":"ADMINISTRADOR",
+                     "participacao":"99.90",
+                     "cargo_de_direcao":"SOCIO",
+                     "cargo_de_administracao":"-",
+                     "data_saida":null
+                  },
+                  {  
+                     "cnpj":"17.574.231\/0001-01",
+                     "razao_social":"FASHION BUSINESS COMERCIO DE ROUPAS LTDA",
+                     "ultima_atualizacao":"-",
+                     "situacao_do_cnpj":"-",
+                     "data_entrada":{  
+                        "date":"2013-01-02 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "tipo_relacionamento":"ADMINISTRADOR",
+                     "participacao":"99.90",
+                     "cargo_de_direcao":"SOCIO",
+                     "cargo_de_administracao":"-",
+                     "data_saida":null
+                  }
+               ],
+               "pendenciasFinanceiraSerasa":[  
+                  {  
+                     "data":{  
+                        "date":"2019-06-26 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"428.40",
+                     "contrato":"001850974-1\/1 1",
+                     "avalista":"N\u00e3o",
+                     "origem":"REFRIGERACAO DUFRIO COMERCIO E IMPORTACAO LTDA",
+                     "cidade":"PORTO ALEGRE",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-06-14 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"218.00",
+                     "contrato":"11487",
+                     "avalista":"N\u00e3o",
+                     "origem":"REAL DISTRIBUIDORA UNICA RIO COMERCIO DE REFRIGERACAO EIRELI",
+                     "cidade":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-06-11 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DIVERSOS QUANDO NAO ENQUADRAR NA RELACAO",
+                     "valor":"44500.00",
+                     "contrato":"140",
+                     "avalista":"N\u00e3o",
+                     "origem":"METALURGICA WA LTDA",
+                     "cidade":"SALVADOR",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-03-10 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"-",
+                     "valor":"377.00",
+                     "contrato":"15793992514",
+                     "avalista":"N\u00e3o",
+                     "origem":"VIA ART SIGN",
+                     "cidade":"ARUJA",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-02-08 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"195.96",
+                     "contrato":"0000000000730369",
+                     "avalista":"N\u00e3o",
+                     "origem":"TNT EXPRESS BRASIL LTDA",
+                     "cidade":"SAO PAULO",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-12-24 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA DE VENDA MERCANTIL",
+                     "valor":"840.00",
+                     "contrato":"15777651460",
+                     "avalista":"N\u00e3o",
+                     "origem":"CASABAND TRANSPORTES",
+                     "cidade":"CANOAS",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-11-05 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"TIT DESCONTA",
+                     "valor":"140.80",
+                     "contrato":"EPSMA00141452018",
+                     "avalista":"N\u00e3o",
+                     "origem":"AGENCIA NACIONAL DE TRANSPORTES TERRESTRES ANTT",
+                     "cidade":"BRASILIA",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-10-08 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA DE PRESTACAO DE SERVICOS POR INDICACAO",
+                     "valor":"5405.76",
+                     "contrato":"15762045572",
+                     "avalista":"N\u00e3o",
+                     "origem":"DREAM M B P A LTDA ME",
+                     "cidade":"SAO PAULO",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-10-05 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"328.59",
+                     "contrato":"FAT002581298ABOL",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-10-05 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"191.32",
+                     "contrato":"FAT002579537ABOL",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-09-14 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"OUTRAS OPER",
+                     "valor":"235.55",
+                     "contrato":"1808129430",
+                     "avalista":"N\u00e3o",
+                     "origem":"BRASPRESS TRANSPORTES URGENTES LTDA",
+                     "cidade":"SAO PAULO",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-08-21 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"758.43",
+                     "contrato":"FAT002538817ABOL",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-08-21 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"265.14",
+                     "contrato":"FAT002541584ABOL",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-08-10 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"614.58",
+                     "contrato":"FAT002532263ABOL",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-06-12 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"NOTA FISCAL",
+                     "valor":"337.25",
+                     "contrato":"50340",
+                     "avalista":"N\u00e3o",
+                     "origem":"ESG COMERCIO ELETRONICO LTDA ME",
+                     "cidade":"SAO PAULO",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-05-30 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"-",
+                     "valor":"5443.76",
+                     "contrato":"15737901229",
+                     "avalista":"N\u00e3o",
+                     "origem":"SEL CONSTRUCOES S EIRELI",
+                     "cidade":"CARIACICA",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-04-06 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"TIT DESCONTA",
+                     "valor":"4.88",
+                     "contrato":"0000308812201803",
+                     "avalista":"N\u00e3o",
+                     "origem":"ENERGISA SERGIPE DISTRIBUIDORA DE ENERGIA S\/A",
+                     "cidade":"ARACAJU",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-03-31 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"OUTRAS OPER",
+                     "valor":"372.00",
+                     "contrato":"11500000235422-2",
+                     "avalista":"N\u00e3o",
+                     "origem":"CENTRO DE INTEGRACAO EMPRESA CIEE",
+                     "cidade":"SAO PAULO",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-03-08 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"FAT AGUA",
+                     "valor":"2606.24",
+                     "contrato":"57751967",
+                     "avalista":"N\u00e3o",
+                     "origem":"CIA PERNAMBUCANA DE SANEAMENTO COMPESA",
+                     "cidade":"RECIFE",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-03-05 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"5422.93",
+                     "contrato":"4690-1",
+                     "avalista":"N\u00e3o",
+                     "origem":"SHERWIN-WILLIAMS DO BRASIL INDUSTRIA E COMERCIO LTDA",
+                     "cidade":"TABOAO DA SERRA",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-02-28 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"OUTRAS OPER",
+                     "valor":"290.00",
+                     "contrato":"11500000210898-2",
+                     "avalista":"N\u00e3o",
+                     "origem":"CENTRO DE INTEGRACAO EMPRESA CIEE",
+                     "cidade":"SAO PAULO",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-02-10 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"-",
+                     "valor":"45.00",
+                     "contrato":"15715112546",
+                     "avalista":"N\u00e3o",
+                     "origem":"CICERO R. DE SOUZA",
+                     "cidade":"CEILANDIA",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-02-09 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"322.16",
+                     "contrato":"INC002368781AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-01-18 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"COBRANCA SIMPLES",
+                     "valor":"117588.50",
+                     "contrato":"13055186",
+                     "avalista":"N\u00e3o",
+                     "origem":"SECRETARIA DA FAZENDA",
+                     "cidade":"RECIFE",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-12-22 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"OUTRAS OPER",
+                     "valor":"134.00",
+                     "contrato":"00900006368712-2",
+                     "avalista":"N\u00e3o",
+                     "origem":"CENTRO DE INTEGRACAO EMPRESA CIEE",
+                     "cidade":"SAO PAULO",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-12-22 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"OUTRAS OPER",
+                     "valor":"372.00",
+                     "contrato":"11500000182327-6",
+                     "avalista":"N\u00e3o",
+                     "origem":"CENTRO DE INTEGRACAO EMPRESA CIEE",
+                     "cidade":"SAO PAULO",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-12-18 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"189.62",
+                     "contrato":"INC002324957AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-12-04 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"403.81",
+                     "contrato":"INC002307867AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-11-30 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"OUTRAS OPER",
+                     "valor":"134.00",
+                     "contrato":"00900006336146-4",
+                     "avalista":"N\u00e3o",
+                     "origem":"CENTRO DE INTEGRACAO EMPRESA CIEE",
+                     "cidade":"SAO PAULO",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-11-30 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"OUTRAS OPER",
+                     "valor":"372.00",
+                     "contrato":"11500000164005-0",
+                     "avalista":"N\u00e3o",
+                     "origem":"CENTRO DE INTEGRACAO EMPRESA CIEE",
+                     "cidade":"SAO PAULO",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-11-27 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"314.68",
+                     "contrato":"INC002303204AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-11-16 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA DE VENDA MERCANTIL",
+                     "valor":"1039.50",
+                     "contrato":"15705992901",
+                     "avalista":"N\u00e3o",
+                     "origem":"GESSO RIO MATERIAL DE CONST",
+                     "cidade":"RIO DE JANEIRO",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-11-10 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"295.82",
+                     "contrato":"INC002291956AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-11-10 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"446.24",
+                     "contrato":"INC003434272AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-10-31 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"OUTRAS OPER",
+                     "valor":"134.00",
+                     "contrato":"00900006300237-5",
+                     "avalista":"N\u00e3o",
+                     "origem":"CENTRO DE INTEGRACAO EMPRESA CIEE",
+                     "cidade":"SAO PAULO",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-10-10 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"443.97",
+                     "contrato":"INC002257151AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-10-03 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"-",
+                     "valor":"2623.03",
+                     "contrato":"15794049303",
+                     "avalista":"N\u00e3o",
+                     "origem":"DENICON ENGENHARIA LTDA",
+                     "cidade":"PINHAIS",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-09-19 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"-",
+                     "valor":"4184.37",
+                     "contrato":"15791109678",
+                     "avalista":"N\u00e3o",
+                     "origem":"DENICON ENGENHARIA LTDA",
+                     "cidade":"PINHAIS",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-09-11 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"OUTRAS OPER",
+                     "valor":"1249.00",
+                     "contrato":"384245",
+                     "avalista":"N\u00e3o",
+                     "origem":"CIA MUNICIPAL DE LIMPEZA URBANA COMLURB",
+                     "cidade":"RIO DE JANEIRO",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-08-16 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"631.11",
+                     "contrato":"INC002181257AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-07-25 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"229.56",
+                     "contrato":"INC002189474AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-07-18 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"330.59",
+                     "contrato":"INC002184572AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-07-17 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"TIT DESCONTA",
+                     "valor":"372.41",
+                     "contrato":"G9887365",
+                     "avalista":"N\u00e3o",
+                     "origem":"AGENCIA NACIONAL DE TRANSPORTES TERRESTRES ANTT",
+                     "cidade":"BRASILIA",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-06-30 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"NOTA FISCAL",
+                     "valor":"12195.21",
+                     "contrato":"1586179115282928",
+                     "avalista":"N\u00e3o",
+                     "origem":"COMPANHIA ENERGETICA DO PIAUI",
+                     "cidade":"TERESINA",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-04-26 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"780.08",
+                     "contrato":"INC002116559AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-03-15 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA DE VENDA MERCANTIL",
+                     "valor":"500.00",
+                     "contrato":"15747189029",
+                     "avalista":"N\u00e3o",
+                     "origem":"EUROMAX IND DE MAQUINAS LTDA",
+                     "cidade":"SAO PAULO",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-02-21 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"667.31",
+                     "contrato":"INC002057851AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-01-27 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"462.09",
+                     "contrato":"INC002040288AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-01-06 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"727.15",
+                     "contrato":"INC002024596AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-12-12 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA DE VENDA MERCANTIL",
+                     "valor":"15755.00",
+                     "contrato":"15741328636",
+                     "avalista":"N\u00e3o",
+                     "origem":"LENKE FOOD S COM IMP EXP LTDA",
+                     "cidade":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-12-12 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA DE VENDA MERCANTIL",
+                     "valor":"15755.00",
+                     "contrato":"15740440955",
+                     "avalista":"N\u00e3o",
+                     "origem":"LENKE FOOD S COM IMP EXP LTDA",
+                     "cidade":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-12-12 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA DE VENDA MERCANTIL",
+                     "valor":"11022.60",
+                     "contrato":"15740440086",
+                     "avalista":"N\u00e3o",
+                     "origem":"LENKE FOOD S COM IMP EXP LTDA",
+                     "cidade":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-11-22 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"310.35",
+                     "contrato":"INC001983965AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-11-14 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"276.06",
+                     "contrato":"INC002837839AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-11-11 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"340.25",
+                     "contrato":"INC001982101AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-10-28 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"275.26",
+                     "contrato":"INC001966592AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-10-24 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA DE VENDA MERCANTIL POR INDICACAO",
+                     "valor":"10026.85",
+                     "contrato":"15731799832",
+                     "avalista":"N\u00e3o",
+                     "origem":"LENKE FOOD S COM IMP EXP LTDA",
+                     "cidade":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-10-07 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"290.72",
+                     "contrato":"INC001952828AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-09-30 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"656.14",
+                     "contrato":"INC001946442AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-09-20 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"OUTRAS OPER",
+                     "valor":"578.29",
+                     "contrato":"338-838191",
+                     "avalista":"N\u00e3o",
+                     "origem":"ROYAL & SUNALLIANCE SEGUROS BRASIL S\/A",
+                     "cidade":"",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-09-16 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"656.14",
+                     "contrato":"INC001936599AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-09-15 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA DE PRESTACAO DE SERVICOS",
+                     "valor":"2591.00",
+                     "contrato":"0T033416-01",
+                     "avalista":"N\u00e3o",
+                     "origem":"NEOBAND SOLUCOES GRAFICAS EIRELI",
+                     "cidade":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-08-25 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"NOTA FISCAL",
+                     "valor":"778.00",
+                     "contrato":"2883",
+                     "avalista":"N\u00e3o",
+                     "origem":"SPINPLUS COMPRESSORES E EQUIPAMENTOS LTDA",
+                     "cidade":"RIO DE JANEIRO",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-08-10 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"NOTA FISCAL",
+                     "valor":"1701.00",
+                     "contrato":"1206",
+                     "avalista":"N\u00e3o",
+                     "origem":"SPINPLUS COMPRESSORES E EQUIPAMENTOS LTDA",
+                     "cidade":"RIO DE JANEIRO",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-07-18 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"893.81",
+                     "contrato":"INC001884692AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-06-02 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"531.15",
+                     "contrato":"INC002552024AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-05-12 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA DE VENDA MERCANTIL",
+                     "valor":"720.00",
+                     "contrato":"15705844740",
+                     "avalista":"N\u00e3o",
+                     "origem":"CASABAND TRANSPORTES",
+                     "cidade":"CANOAS",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-05-06 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"286.53",
+                     "contrato":"JF 121622",
+                     "avalista":"N\u00e3o",
+                     "origem":"TNT MERCURIO CARGAS E ENCOMENDAS EXPRESSAS S\/A",
+                     "cidade":"ARAGUAINA",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-04-15 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"OUTRAS OPER",
+                     "valor":"189.48",
+                     "contrato":"0000000003983951",
+                     "avalista":"N\u00e3o",
+                     "origem":"EMPRESA BRASILEIRA DE INFRA ESTRUTURA AEROPORTUARIA",
+                     "cidade":"BRASILIA",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-04-15 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"OUTRAS OPER",
+                     "valor":"135.62",
+                     "contrato":"0000000003983952",
+                     "avalista":"N\u00e3o",
+                     "origem":"EMPRESA BRASILEIRA DE INFRA ESTRUTURA AEROPORTUARIA",
+                     "cidade":"BRASILIA",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-04-04 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"2236.71",
+                     "contrato":"INC001801513AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-03-18 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"264.30",
+                     "contrato":"INC001789477AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-03-04 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"526.52",
+                     "contrato":"INC001776820AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-02-23 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"615.09",
+                     "contrato":"INC001769629AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-01-29 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"295.01",
+                     "contrato":"INC002355659AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-01-29 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"1761.48",
+                     "contrato":"INC002355661AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-01-29 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"343.56",
+                     "contrato":"INC002355657AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-01-15 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"904.66",
+                     "contrato":"INC002348133AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-01-02 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"562.18",
+                     "contrato":"PA 397847",
+                     "avalista":"N\u00e3o",
+                     "origem":"TNT MERCURIO CARGAS E ENCOMENDAS EXPRESSAS S\/A",
+                     "cidade":"ARAGUAINA",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2015-12-08 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"TIT DESCONTA",
+                     "valor":"778.58",
+                     "contrato":"S1388200",
+                     "avalista":"N\u00e3o",
+                     "origem":"AGENCIA NACIONAL DE TRANSPORTES TERRESTRES ANTT",
+                     "cidade":"BRASILIA",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2015-11-29 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"72.38",
+                     "contrato":"RJ 221475",
+                     "avalista":"N\u00e3o",
+                     "origem":"TNT MERCURIO CARGAS E ENCOMENDAS EXPRESSAS S\/A",
+                     "cidade":"ARAGUAINA",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2015-07-24 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"6840.65",
+                     "contrato":"703374",
+                     "avalista":"N\u00e3o",
+                     "origem":"FEDEX BRASIL LOGISTICA E TRANSPORTES S\/A",
+                     "cidade":"SAO JOSE",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2015-06-26 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"156.60",
+                     "contrato":"INC001580744AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2015-03-13 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"NOTA FISCAL",
+                     "valor":"177.14",
+                     "contrato":"54593",
+                     "avalista":"N\u00e3o",
+                     "origem":"TRADICAO TECNOLOGIA E SERVICOS LTDA",
+                     "cidade":"SAO PAULO",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2015-02-23 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"DUPLICATA",
+                     "valor":"343.96",
+                     "contrato":"INC001054154AINC",
+                     "avalista":"N\u00e3o",
+                     "origem":"JAMEF TRANSPORTES LTDA",
+                     "cidade":"CONTAGEM",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2015-02-23 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"NOTA FISCAL",
+                     "valor":"406.05",
+                     "contrato":"54324",
+                     "avalista":"N\u00e3o",
+                     "origem":"TRADICAO TECNOLOGIA E SERVICOS LTDA",
+                     "cidade":"SAO PAULO",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2014-10-10 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "modalidade":"OUTRAS OPER",
+                     "valor":"1062.00",
+                     "contrato":"210333",
+                     "avalista":"N\u00e3o",
+                     "origem":"CIA MUNICIPAL DE LIMPEZA URBANA COMLURB",
+                     "cidade":"RIO DE JANEIRO",
+                     "info_adicional":""
+                  }
+               ],
+               "pendenciasSPC":[  
+                  {  
+                     "data_inclusao":{  
+                        "date":"2019-07-23 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2019-06-14 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"11487",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"218.00",
+                     "associadocredor":"REAL DISTRIBUIDORA UNICA",
+                     "cidadeuf_origem":"-",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2019-07-21 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2019-06-26 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"001850974-1\/1 1",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"428.40",
+                     "associadocredor":"DUFRIO",
+                     "cidadeuf_origem":"PORTO ALEGRE \/ RS",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2019-05-16 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2019-04-05 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"201909532584",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"2451.86",
+                     "associadocredor":"PREFEITURA DE PORTO ALEGRE",
+                     "cidadeuf_origem":"PORTO ALEGRE \/ RS",
+                     "origem":"Federa\u00e7\u00e3o CDLs\/ACs - PORTO ALEGRE \/ RS"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2019-04-16 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2019-03-10 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"15793992514",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"377.00",
+                     "associadocredor":"VIA ART SIGN",
+                     "cidadeuf_origem":"ARUJA \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2019-04-05 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2019-02-08 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"0000000000730369",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"195.96",
+                     "associadocredor":"TNT EXPRESS",
+                     "cidadeuf_origem":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2019-02-13 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2017-12-22 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"00900006368712-2",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"134.00",
+                     "associadocredor":"CIEE",
+                     "cidadeuf_origem":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2019-02-13 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2017-11-30 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"00900006336146-4",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"134.00",
+                     "associadocredor":"CIEE",
+                     "cidadeuf_origem":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2019-02-13 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2017-10-31 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"00900006300237-5",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"134.00",
+                     "associadocredor":"CIEE",
+                     "cidadeuf_origem":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2018-12-17 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2018-02-28 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"11500000210898-2",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"290.00",
+                     "associadocredor":"CIEE",
+                     "cidadeuf_origem":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2018-12-05 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2018-10-08 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"15762045572",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"5405.76",
+                     "associadocredor":"DREAM M B P A LTDA ME",
+                     "cidadeuf_origem":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2018-10-13 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2018-09-14 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"1808129430",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"235.55",
+                     "associadocredor":"BRASPRESS T",
+                     "cidadeuf_origem":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2018-10-01 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2018-03-05 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"4690-1",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"5422.93",
+                     "associadocredor":"SHERWIN",
+                     "cidadeuf_origem":"TABOAO DA SERRA \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2018-07-24 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2018-06-12 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"50340",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"337.25",
+                     "associadocredor":"ESG COMERCIO ELETRONICO L",
+                     "cidadeuf_origem":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2018-07-22 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2018-03-31 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"11500000235422-2",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"372.00",
+                     "associadocredor":"CIEE",
+                     "cidadeuf_origem":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2018-06-30 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2017-12-22 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"11500000182327-6",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"372.00",
+                     "associadocredor":"CIEE",
+                     "cidadeuf_origem":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2018-06-30 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2017-11-30 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"11500000164005-0",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"372.00",
+                     "associadocredor":"CIEE",
+                     "cidadeuf_origem":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2018-03-30 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2017-09-11 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"384245",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"1249.00",
+                     "associadocredor":"CIA MUNICIPAL DE LIMPEZA",
+                     "cidadeuf_origem":"RIO DE JANEIRO \/ RJ",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2017-12-17 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2017-11-16 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"15705992901",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"1039.50",
+                     "associadocredor":"GESSO RIO MATERIAL DE CON",
+                     "cidadeuf_origem":"RIO DE JANEIRO \/ RJ",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2017-11-05 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2017-10-03 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"15794049303",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"2623.03",
+                     "associadocredor":"DENICON ENGENHARIA LTDA",
+                     "cidadeuf_origem":"PINHAIS \/ PR",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2017-10-22 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2017-09-19 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"15791109678",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"4184.37",
+                     "associadocredor":"DENICON ENGENHARIA LTDA",
+                     "cidadeuf_origem":"PINHAIS \/ PR",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2017-05-29 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2017-04-10 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"BOLETO",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"14931.33",
+                     "associadocredor":"CATUAI PALLADIUM",
+                     "cidadeuf_origem":"FOZ DO IGUACU \/ PR",
+                     "origem":"Associa\u00e7\u00e3o Comercial - FOZ DO IGUACU \/ PR"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2017-04-13 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2017-03-15 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"15747189029",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"500.00",
+                     "associadocredor":"EUROMAX IND DE MAQUINAS L",
+                     "cidadeuf_origem":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2017-03-31 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2016-09-20 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"338-838191",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"578.29",
+                     "associadocredor":"RSA SEGUROS",
+                     "cidadeuf_origem":"-",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2017-01-18 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2016-12-12 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"15741328636",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"15755.00",
+                     "associadocredor":"LENKE FOOD S COM IMP EXP",
+                     "cidadeuf_origem":"-",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2017-01-18 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2016-12-12 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"15740440955",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"15755.00",
+                     "associadocredor":"LENKE FOOD S COM IMP EXP",
+                     "cidadeuf_origem":"-",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2017-01-18 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2016-12-12 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"15740440086",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"11022.60",
+                     "associadocredor":"LENKE FOOD S COM IMP EXP",
+                     "cidadeuf_origem":"-",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2017-01-13 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2016-09-15 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"0T033416-01",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"2591.00",
+                     "associadocredor":"NEOBAND SOLUCOES GRAFICAS",
+                     "cidadeuf_origem":"-",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2016-11-30 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2016-10-24 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"15731799832",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"10026.85",
+                     "associadocredor":"LENKE FOOD S COM IMP EXP",
+                     "cidadeuf_origem":"-",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2016-10-29 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2016-08-25 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"2883",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"778.00",
+                     "associadocredor":"SPINPLUS COMPRESSORES E E",
+                     "cidadeuf_origem":"RIO DE JANEIRO \/ RJ",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2016-10-29 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2016-08-10 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"1206",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"1701.00",
+                     "associadocredor":"SPINPLUS COMPRESSORES E E",
+                     "cidadeuf_origem":"RIO DE JANEIRO \/ RJ",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2016-02-13 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2016-01-02 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"PA 397847",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"562.18",
+                     "associadocredor":"TNT MERCURIO",
+                     "cidadeuf_origem":"ARAGUAINA \/ TO",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2016-01-25 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2015-03-13 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"54593",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"177.14",
+                     "associadocredor":"TRADICAO TECNOLOGIA E SER",
+                     "cidadeuf_origem":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2016-01-25 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2015-02-23 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"54324",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"406.05",
+                     "associadocredor":"TRADICAO TECNOLOGIA E SER",
+                     "cidadeuf_origem":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data_inclusao":{  
+                        "date":"2014-12-26 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "data_vencimento":{  
+                        "date":"2014-10-10 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "contratofatura":"210333",
+                     "compradorfiadoravalista":"COMPRADOR",
+                     "detalhe":"",
+                     "valor":"1062.00",
+                     "associadocredor":"CIA MUNICIPAL DE LIMPEZA",
+                     "cidadeuf_origem":"RIO DE JANEIRO \/ RJ",
+                     "origem":"SAO PAULO \/ SP"
+                  }
+               ],
+               "protestos":[  
+                  {  
+                     "data":{  
+                        "date":"2019-08-06 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"6780.74",
+                     "cartorio":"UN",
+                     "cidade":"SAO JOSE",
+                     "uf":"SC",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-05 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"902.76",
+                     "cartorio":"0002",
+                     "cidade":"MARABA",
+                     "uf":"PA",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-05 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"907.64",
+                     "cartorio":"0002",
+                     "cidade":"MARABA",
+                     "uf":"PA",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-05 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"904.49",
+                     "cartorio":"0002",
+                     "cidade":"MARABA",
+                     "uf":"PA",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-06-20 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"8600.00",
+                     "cartorio":"0001",
+                     "cidade":"SAO LUIS",
+                     "uf":"MA",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-06-20 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"170.00",
+                     "cartorio":"0002",
+                     "cidade":"RECIFE",
+                     "uf":"PE",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-06-06 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"3400.00",
+                     "cartorio":"0002",
+                     "cidade":"SAO LUIS",
+                     "uf":"MA",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-06-04 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"5422.81",
+                     "cartorio":"0003",
+                     "cidade":"SAO PAULO",
+                     "uf":"SP",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-05-22 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"8046.00",
+                     "cartorio":"0001",
+                     "cidade":"PORTO ALEGRE",
+                     "uf":"RS",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-05-21 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"7663.48",
+                     "cartorio":"0001",
+                     "cidade":"PORTO ALEGRE",
+                     "uf":"RS",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-03-06 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"17902.68",
+                     "cartorio":"0003",
+                     "cidade":"PORTO ALEGRE",
+                     "uf":"RS",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-08-20 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"2061.29",
+                     "cartorio":"0002",
+                     "cidade":"ANAPOLIS",
+                     "uf":"GO",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-08-14 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"4836.69",
+                     "cartorio":"0003",
+                     "cidade":"NOVA IGUACU",
+                     "uf":"RJ",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-08-10 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"2496.87",
+                     "cartorio":"0011",
+                     "cidade":"CAMPOS DOS GOYTACAZES",
+                     "uf":"RJ",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2018-07-10 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"1860.01",
+                     "cartorio":"0001",
+                     "cidade":"VILA VELHA",
+                     "uf":"ES",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-12-11 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"10935.55",
+                     "cartorio":"UN",
+                     "cidade":"LAJEADO",
+                     "uf":"RS",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-06-12 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"172.17",
+                     "cartorio":"UN",
+                     "cidade":"PALMAS",
+                     "uf":"TO",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-05-31 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"6293.71",
+                     "cartorio":"0004",
+                     "cidade":"OLINDA",
+                     "uf":"PE",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-04-10 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"249.05",
+                     "cartorio":"0001",
+                     "cidade":"CAMPINAS",
+                     "uf":"SP",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-03-23 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"670.74",
+                     "cartorio":"0001",
+                     "cidade":"RIO DE JANEIRO",
+                     "uf":"RJ",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2017-01-22 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"2992.30",
+                     "cartorio":"0002",
+                     "cidade":"BRAGANCA PAULISTA",
+                     "uf":"SP",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-12-23 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"1979.50",
+                     "cartorio":"0006",
+                     "cidade":"SAO PAULO",
+                     "uf":"SP",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-07-11 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"4879.13",
+                     "cartorio":"0002",
+                     "cidade":"CAMPINAS",
+                     "uf":"SP",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2016-03-10 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"879.21",
+                     "cartorio":"0001",
+                     "cidade":"CAMPINAS",
+                     "uf":"SP",
+                     "natureza":"-",
+                     "info_adicional":""
+                  },
+                  {  
+                     "data":{  
+                        "date":"2015-01-12 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"744.12",
+                     "cartorio":"0003",
+                     "cidade":"CAMPINAS",
+                     "uf":"SP",
+                     "natureza":"-",
+                     "info_adicional":""
+                  }
+               ],
+               "consultaSpcSerasa":[  
+                  {  
+                     "data":{  
+                        "date":"2019-08-21 19:09:36.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"DIMODA\/PAULO AFONSO",
+                     "cidade":"PAULO AFONSO \/ BA",
+                     "origem":"CDL - PAULO AFONSO \/ BA"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-21 14:38:55.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"DIVIBRAS COMERCIO DE VIDROS TEMPERADOS E METAIS BRASIL LTDA",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"CDL - SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-21 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"SCANSOURCE DO BRASIL",
+                     "cidade":"CURITIBA \/ PR",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-21 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"ROCKTEC IND E COM DE ISOL",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-21 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"SANTANDER FINANCIAMENTOS",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-21 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"CLIMARIO",
+                     "cidade":"RIO DE JANEIRO \/ RJ",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-20 15:39:03.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"LEO MADEIRAS",
+                     "cidade":"CONTAGEM \/ MG",
+                     "origem":"CDL - CONTAGEM \/ MG"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-20 15:20:27.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"MADE NOVA MADEIRAS LTDA",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"CDL - SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-20 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"SOMPO SEGUROS",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-20 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"TEX COURIER",
+                     "cidade":"-",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-20 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"FALUBI COMERCIO DE SERVIY",
+                     "cidade":"GRAVATAI \/ RS",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-20 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"CEF",
+                     "cidade":"BRASILIA \/ DF",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-20 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"J.SHAYEB E CIA LTDA",
+                     "cidade":"BAURU \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-20 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"COML. PORCELANAS E TALHERES KNETIG LTDA",
+                     "cidade":"PORTO ALEGRE \/ RS",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-19 10:59:39.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"PROTECTOR BRASIL",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"CDL - SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-19 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"TICKET LOG",
+                     "cidade":"SAO LEOPOLDO \/ RS",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-19 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"PRECON INDL",
+                     "cidade":"PEDRO LEOPOLDO \/ MG",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-16 08:54:06.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"MADE NOVA MADEIRAS LTDA",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"CDL - SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-16 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"GADE CORPORATIVA",
+                     "cidade":"UBERLANDIA \/ MG",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-16 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"CONDOMINIO PLAZA SHOPPING CASA FORTE",
+                     "cidade":"RECIFE \/ PE",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-15 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"CLARO TV",
+                     "cidade":"CLEMENTINA \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-15 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"GOOGLE",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-15 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"HDI SEGUROS S\/A",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-14 11:48:38.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"SANTA APOLONIA HOSPITALAR",
+                     "cidade":"FLORIANOPOLIS \/ SC",
+                     "origem":"CDL - FLORIANOPOLIS \/ SC"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-14 10:59:28.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"REDECORE",
+                     "cidade":"NOVO HAMBURGO \/ RS",
+                     "origem":"CDL - NOVO HAMBURGO \/ RS"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-14 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"ROCKTEC IND E COM DE ISOL",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-14 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"REDECARD",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-14 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"PIZZATTO",
+                     "cidade":"CUIABA \/ MT",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-13 11:45:15.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"SB PALLETS",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"CDL - SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-13 11:35:47.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"REZENDE CONSTRU\u00c7\u00c3O",
+                     "cidade":"NOVA FRIBURGO \/ RJ",
+                     "origem":"CDL - NOVA FRIBURGO \/ RJ"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-13 10:21:13.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"SABORAMA-SABORES E CONCENTRADOS LTDA",
+                     "cidade":"TABOAO DA SERRA \/ SP",
+                     "origem":"CDL - SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-13 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"NAO POSSUI",
+                     "cidade":"-",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-13 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"ELECON INDUSTRIA E COMERC",
+                     "cidade":"SALVADOR \/ BA",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-13 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"RBS ADM COBRANCAS",
+                     "cidade":"-",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-12 16:46:14.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"NACIONAL TUBOS INDUSTRIAL LTDA",
+                     "cidade":"LIMEIRA \/ SP",
+                     "origem":"CDL - SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-12 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"ISAR ISOL TERMICOS E ACUS",
+                     "cidade":"-",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-12 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"ROBERTO CER",
+                     "cidade":"PRESIDENTE PRUDENTE \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-12 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"PIMPOLHO",
+                     "cidade":"VILA VELHA \/ ES",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-12 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"ALELO",
+                     "cidade":"-",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-12 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"RBS ADM COBRANCAS",
+                     "cidade":"-",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-12 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"BANPAR FOMENTO",
+                     "cidade":"-",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-09 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"NAO POSSUI",
+                     "cidade":"-",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-09 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"RENAFER COMERCIO IMPORTACAO E EXPORTACAO DE ARTEFATOS DE MADEIRA LTDA",
+                     "cidade":"JUNDIAI \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-07 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"RED SA",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-07 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"CREDIGUACU",
+                     "cidade":"DESCALVADO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-06 10:15:29.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"AUTO TINTAS RENATO",
+                     "cidade":"FLORIANOPOLIS \/ SC",
+                     "origem":"CDL - FLORIANOPOLIS \/ SC"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-06 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"SOMPO SEGUROS",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-06 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"GOL LINHAS AEREAS S\/A",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-06 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"ZEUS DO BRASIL",
+                     "cidade":"-",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-05 15:17:44.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"ASSERTIVA SOLUCOES EM MARKETING E CREDITO LTDA EPP",
+                     "cidade":"CAMPINAS \/ SP",
+                     "origem":"CDL - SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-05 11:48:08.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"PROMERCADO",
+                     "cidade":"CURITIBA \/ PR",
+                     "origem":"CDL - CURITIBA \/ PR"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-05 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"DAYCOVAL",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-05 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"SOSERVI",
+                     "cidade":"OLINDA \/ PE",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-02 12:34:25.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"SUPERMERCADO DB",
+                     "cidade":"MANAUS \/ AM",
+                     "origem":"CDL - MANAUS \/ AM"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-02 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"REDECARD",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-02 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"RH INTERNACIONAL LTDA",
+                     "cidade":"-",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-02 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"HIPPERFIO CABOS ESPECIAIS",
+                     "cidade":"TABOAO DA SERRA \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-02 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"SAVAR VEICULOS LTDA",
+                     "cidade":"-",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-01 13:55:41.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"NEW A\u00c7O - TUBOS DE A\u00c7O E PERFIS LAMINADOS",
+                     "cidade":"SAO BERNARDO DO CAMPO \/ SP",
+                     "origem":"CDL - SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-01 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"REDECARD",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-01 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"BV FINANCEIRA",
+                     "cidade":"-",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-01 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"DUN & BRADSTREET DO BRASIL LTDA",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-31 07:50:54.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"SCHRADER",
+                     "cidade":"BLUMENAU \/ SC",
+                     "origem":"FCDL-SC - BLUMENAU \/ SC"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-31 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"CEF",
+                     "cidade":"BRASILIA \/ DF",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-31 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"PRECON INDL",
+                     "cidade":"PEDRO LEOPOLDO \/ MG",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-31 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"GOOGLE",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-30 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"SWISS RE CORPORATE SOLUTI",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-29 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"GRENDENE",
+                     "cidade":"FARROUPILHA \/ RS",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-29 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"BELLAPRATICA COM DE COSMETICOS LTDA",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-29 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"BANCO VOTORANTIM",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-29 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"BATERIAS MOURA",
+                     "cidade":"JOINVILLE \/ SC",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-26 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"DANICAZIPCO SISTEMAS CONS",
+                     "cidade":"JOINVILLE \/ SC",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-26 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"TELWECK INDUSTRIA METALURGICA E COMERCIO LTDA",
+                     "cidade":"Joinville \/ SC",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-26 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"DINIL",
+                     "cidade":"NITEROI \/ RJ",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-25 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"TRANSPORTE GENEROSO",
+                     "cidade":"BARRA MANSA \/ RJ",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-25 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"REDECARD",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-25 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"AUREON IND COM DE EQUIP",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-24 14:09:51.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"ABRASSER FERRAMENTAS",
+                     "cidade":"CACHOEIRINHA \/ RS",
+                     "origem":"Federa\u00e7\u00e3o CDLs\/ACs - PORTO ALEGRE \/ RS"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-24 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"ELETRICA DW",
+                     "cidade":"CURITIBA \/ PR",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-24 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"DISTRIB CAT",
+                     "cidade":"FLORIANOPOLIS \/ SC",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-22 09:18:38.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"GRUPO DAGO",
+                     "cidade":"GUARULHOS \/ SP",
+                     "origem":"CDL - ANAPOLIS \/ GO"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-22 08:45:35.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"VIDRACARIA CORAMARA",
+                     "cidade":"CACHOEIRO DE ITAPEMIRIM \/ ES",
+                     "origem":"CDL - CACHOEIRO DE ITAPEMIRIM \/ ES"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-19 14:51:41.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"ELETROMIL MAT.ELE",
+                     "cidade":"VITORIA \/ ES",
+                     "origem":"CDL - VITORIA \/ ES"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-18 16:46:08.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"HOPE TECH TELECOMUNICACOES COMERCIO E SERVICOS LTDA ME",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"CDL - SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-18 11:43:40.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"CIBRACO IMOVEIS",
+                     "cidade":"CURITIBA \/ PR",
+                     "origem":"CDL - CURITIBA \/ PR"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-17 16:58:42.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"LIMPEL PRODUTOS PARA LIMPEZA",
+                     "cidade":"SAO JOSE \/ SC",
+                     "origem":"FCDL-SC - SAO JOSE \/ SC"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-17 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"HDI SEGUROS S\/A",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-17 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"NAO POSSUI",
+                     "cidade":"-",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-17 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"COFACE DO BRASIL SERVICOS DE GERENCIAMEN",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-07-17 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"CHUBB SEGUROS BRASIL S\/A",
+                     "cidade":"SAO PAULO \/ SP",
+                     "origem":"SAO PAULO \/ SP"
+                  }
+               ]
+            },
+            "idConsulta":644418
+         }
+      }
+   },
+   "msg":""
+}

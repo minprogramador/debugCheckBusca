@@ -1,0 +1,248 @@
+{  
+   "code":200,
+   "data":{  
+      "erros":[  
+
+      ],
+      "consultas":{  
+         "10":{  
+            "template":"credito_3",
+            "key":{  
+               "md5":"2020513f23b0f06fd5d54ae0d4ab9c6d",
+               "title":"81423969049"
+            },
+            "data":{  
+               "dadosInformados":{  
+                  "cpf":"814.239.690-49"
+               },
+               "resumoOcorrencias":{  
+                  "confirmacao_dados_telefonicos":{  
+                     "qtde":"-",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  },
+                  "protesto":{  
+                     "qtde":"1",
+                     "ultima_ocorrencia":"06\/2018",
+                     "valor":"654.23"
+                  },
+                  "registro_de_spc":{  
+                     "qtde":"-",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  },
+                  "informacoes_do_poder_judiciario":{  
+                     "qtde":"-",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  },
+                  "cheque_sem_fundo_varejo":{  
+                     "qtde":"-",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  },
+                  "cheques_sem_fundo_ccf":{  
+                     "qtde":"4",
+                     "ultima_ocorrencia":"08\/2016",
+                     "valor":""
+                  },
+                  "registro_de_cheque_lojista":{  
+                     "qtde":"-",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  },
+                  "cheque_contra_ordem_outras_ocorrencias":{  
+                     "qtde":"-",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  },
+                  "consulta_realizada":{  
+                     "qtde":"5",
+                     "ultima_ocorrencia":"08\/2019",
+                     "valor":""
+                  },
+                  "alerta_de_documentos":{  
+                     "qtde":"-",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  },
+                  "credito_concedido":{  
+                     "qtde":"-",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  },
+                  "controle_societario":{  
+                     "qtde":"-",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  },
+                  "pendencias_financeiras_serasa":{  
+                     "qtde":"-",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  },
+                  "participacoes_em_empresas":{  
+                     "qtde":"1",
+                     "ultima_ocorrencia":"-",
+                     "valor":""
+                  }
+               },
+               "identificacao":{  
+                  "cpf":"814.239.690-49",
+                  "data_da_inscricao_do_cpf":"17\/03\/1998",
+                  "nome":"LUCIANE SILVA DOS SANTOS",
+                  "data_de_nascimento":{  
+                     "date":"1987-02-09 00:00:00.000000",
+                     "timezone_type":3,
+                     "timezone":"America\/Sao_Paulo"
+                  },
+                  "nome_da_mae":"SINGLACIR SILVA DOS SANTOS"
+               },
+               "endereco":{  
+                  "endereco":"R SERAFIM A F SOBRINHO, 182, AP 3 VL STA LUZ    \u00a0",
+                  "bairro":"",
+                  "cidade":"CAPAO DA CANOA",
+                  "uf":"RS",
+                  "cep":"95555-000"
+               },
+               "telefones":[  
+                  {  
+                     "telefone":"55 3025-4522",
+                     "tempo_instalacao":"-",
+                     "cidade":"-",
+                     "uf":"-"
+                  },
+                  {  
+                     "telefone":"55 3214-1024",
+                     "tempo_instalacao":"-",
+                     "cidade":"-",
+                     "uf":"-"
+                  },
+                  {  
+                     "telefone":"55 3307-0480",
+                     "tempo_instalacao":"-",
+                     "cidade":"-",
+                     "uf":"-"
+                  },
+                  {  
+                     "telefone":"51 9858-8505",
+                     "tempo_instalacao":"-",
+                     "cidade":"-",
+                     "uf":"-"
+                  }
+               ],
+               "enderecosInformadosAnteriormente":[  
+                  {  
+                     "logradouro":"R FRANCISCO BROCHADO DA ROCHA, 57, CS 2",
+                     "bairro":"SALGADO FILHO",
+                     "cidade":"SANTA MARIA",
+                     "cep":"97043-200",
+                     "uf":"RS"
+                  }
+               ],
+               "participacoesEmpresas":[  
+                  {  
+                     "cnpj":"17.581.692\/0001-01",
+                     "razao_social":"LUCIANE SILVA DOS SANTOS 81423969049",
+                     "ultima_atualizacao":"-",
+                     "situacao_do_cnpj":"-",
+                     "data_entrada":{  
+                        "date":"2013-02-15 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "tipo_relacionamento":"SOCIO",
+                     "participacao":"100.00",
+                     "cargo_de_direcao":"EMPRESARIO",
+                     "cargo_de_administracao":"-",
+                     "data_saida":null
+                  }
+               ],
+               "chequeSemFundo":[  
+                  {  
+                     "ultimo_cheque":{  
+                        "date":"2016-08-31 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "banco":"341 - BANCO ITAU S\/A",
+                     "agencia":"1654",
+                     "quantidade":"4",
+                     "motivo":"12 - MOTIVO 12",
+                     "origem":"BANCO CENTRAL DO BRASIL"
+                  }
+               ],
+               "protestos":[  
+                  {  
+                     "data":{  
+                        "date":"2018-06-11 00:00:00.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "valor":"654.23",
+                     "cartorio":"UN",
+                     "cidade":"CAPAO DA CANOA",
+                     "uf":"RS",
+                     "natureza":"-",
+                     "info_adicional":""
+                  }
+               ],
+               "consultaSpcSerasa":[  
+                  {  
+                     "data":{  
+                        "date":"2019-08-21 16:17:26.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"O BOTICARIO",
+                     "cidade":"ALAGOINHAS \/ BA",
+                     "origem":"CDL - ALAGOINHAS \/ BA"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-21 15:48:20.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"O BOTICARIO",
+                     "cidade":"ALAGOINHAS \/ BA",
+                     "origem":"CDL - ALAGOINHAS \/ BA"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-21 15:45:58.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"DIMODA\/PAULO AFONSO",
+                     "cidade":"PAULO AFONSO \/ BA",
+                     "origem":"CDL - PAULO AFONSO \/ BA"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-20 21:26:32.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"NOSSA OTICA PARAGOMINAS",
+                     "cidade":"CASTANHAL \/ PA",
+                     "origem":"CDL - PARAGOMINAS \/ PA"
+                  },
+                  {  
+                     "data":{  
+                        "date":"2019-08-14 15:34:24.000000",
+                        "timezone_type":3,
+                        "timezone":"America\/Sao_Paulo"
+                     },
+                     "associado":"FARMELHOR",
+                     "cidade":"CONCEICAO DAS ALAGOAS \/ MG",
+                     "origem":"CDL - CONCEICAO DAS ALAGOAS \/ MG"
+                  }
+               ]
+            },
+            "idConsulta":639567
+         }
+      }
+   },
+   "msg":""
+}
