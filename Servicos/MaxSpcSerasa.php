@@ -346,6 +346,12 @@ function filtrarCnpj($resultado) {
         $score = false;
     }
 
+    if(array_key_exists('telefones', $resultado)) {
+        $telefones = $resultado['telefones'];
+    }else{
+        $telefones = false;
+    }
+
 
     if(array_key_exists('consultaSpcSerasa', $resultado)) {
         $consultaSpcSerasa = $resultado['consultaSpcSerasa'];
@@ -454,6 +460,7 @@ function filtrarCnpj($resultado) {
     $consultaSpcSerasa = jsonToTd($consultaSpcSerasa);
     $pendenciasFinanceiraSerasa = jsonToTd($pendenciasFinanceiraSerasa);
 
+    $telefonesOk = jsonToTd($telefones);
 
     $dados = file_get_contents('tpls/Max-spc-serasa/resultadookcnpj.html');
 
@@ -476,6 +483,11 @@ function filtrarCnpj($resultado) {
     $dados = str_replace('{{protestos}}', $protestos, $dados);
     $dados = str_replace('{{pendenciasSPC}}', $pendenciasSPC, $dados);
     $dados = str_replace('{{chequeSemFundo}}', $chequeSemFundo, $dados);
+
+
+    $dados = str_replace('{{telefones_vinculados}}', $telefonesOk, $dados);
+
+
 
     return json_encode(array('dados' => $dados));
 }
