@@ -353,6 +353,14 @@ function filtrarCnpj($resultado) {
     }
 
 
+    if(array_key_exists('participacoesEmpresas', $resultado)) {
+        $participacoesEmpresas = $resultado['participacoesEmpresas'];
+    }else{
+        $participacoesEmpresas = false;
+    }
+
+
+
     if(array_key_exists('consultaSpcSerasa', $resultado)) {
         $consultaSpcSerasa = $resultado['consultaSpcSerasa'];
     }else{
@@ -461,6 +469,7 @@ function filtrarCnpj($resultado) {
     $pendenciasFinanceiraSerasa = jsonToTd($pendenciasFinanceiraSerasa);
 
     $telefonesOk = jsonToTd($telefones);
+    $participEmp = jsonToTd($participacoesEmpresas);
 
     $dados = file_get_contents('tpls/Max-spc-serasa/resultadookcnpj.html');
 
@@ -486,7 +495,9 @@ function filtrarCnpj($resultado) {
 
 
     $dados = str_replace('{{telefones_vinculados}}', $telefonesOk, $dados);
+    $dados = str_replace('{{participacao_empresas}}', $participEmp, $dados);
 
+    
 
 
     return json_encode(array('dados' => $dados));
