@@ -176,6 +176,17 @@ function filtrar($resultado) {
         $score = false;
     }
 
+    if(array_key_exists('telefones', $resultado)) {
+        $telefones = $resultado['telefones'];
+    }else{
+        $telefones = false;
+    }
+
+    if(array_key_exists('participacoesEmpresas', $resultado)) {
+        $participEmpresas = $resultado['participacoesEmpresas'];
+    }else{
+        $participEmpresas = false;
+    }
 
     if(array_key_exists('consultaSpcSerasa', $resultado)) {
         $consultaSpcSerasa = $resultado['consultaSpcSerasa'];
@@ -251,6 +262,10 @@ function filtrar($resultado) {
     $consultaSpcSerasa = jsonToTd($consultaSpcSerasa);
     $pendenciasFinanceiraSerasa = jsonToTd($pendenciasFinanceiraSerasa);
 
+    $telefones_vinculados = jsonToTd($telefones);
+    $participacao_empresarial = jsonToTd($participEmpresas);
+
+
     if($data_da_inscricao_do_cpf != '') {
         $data_da_inscricao_do_cpf = '&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Data da Inscrição do CPF:&nbsp;<span id="filtro_cpf_span">'.$data_da_inscricao_do_cpf.'</span>';
     }
@@ -281,6 +296,9 @@ function filtrar($resultado) {
     $dados = str_replace('{{pendenciasSPC}}', $pendenciasSPC, $dados);
     $dados = str_replace('{{chequeSemFundo}}', $chequeSemFundo, $dados);
 
+    $dados = str_replace('{{telefones_vinculados}}', $telefones_vinculados, $dados);
+    $dados = str_replace('{{participacao_empresas}}', $participacao_empresarial, $dados);
+
     return json_encode(array('dados' => $dados));
 }
 
@@ -309,6 +327,20 @@ function filtrarCnpj($resultado) {
     }else{
         $score = false;
     }
+
+    if(array_key_exists('telefones', $resultado)) {
+        $telefones = $resultado['telefones'];
+    }else{
+        $telefones = false;
+    }
+
+
+    if(array_key_exists('participacoesEmpresas', $resultado)) {
+        $participacoesEmpresas = $resultado['participacoesEmpresas'];
+    }else{
+        $participacoesEmpresas = false;
+    }
+
 
 
     if(array_key_exists('consultaSpcSerasa', $resultado)) {
@@ -418,6 +450,9 @@ function filtrarCnpj($resultado) {
     $consultaSpcSerasa = jsonToTd($consultaSpcSerasa);
     $pendenciasFinanceiraSerasa = jsonToTd($pendenciasFinanceiraSerasa);
 
+    $telefonesOk = jsonToTd($telefones);
+    $participEmp = jsonToTd($participacoesEmpresas);
+
 
     $dados = file_get_contents('tpls/Max-spc-serasa/resultadookcnpj.html');
 
@@ -440,6 +475,10 @@ function filtrarCnpj($resultado) {
     $dados = str_replace('{{protestos}}', $protestos, $dados);
     $dados = str_replace('{{pendenciasSPC}}', $pendenciasSPC, $dados);
     $dados = str_replace('{{chequeSemFundo}}', $chequeSemFundo, $dados);
+
+    $dados = str_replace('{{telefones_vinculados}}', $telefonesOk, $dados);
+    $dados = str_replace('{{participacao_empresas}}', $participEmp, $dados);
+
 
     return json_encode(array('dados' => $dados));
 }
